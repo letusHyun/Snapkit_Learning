@@ -107,7 +107,7 @@ class ViewController: UIViewController {
 //
 //    greenBoxTopNSLayoutConstraint?.isActive = true
   }
-  
+   
   var offset = CGFloat(0)
   
   @objc fileprivate func moveGreenBoxDown() {
