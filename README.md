@@ -1,1 +1,2 @@
-# 정대리 snapkit 강의
+# snapkit
+정대리 강의
